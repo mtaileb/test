@@ -1,0 +1,15 @@
+{
+	"name": "datafactorymehdi123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61c0e7f1-7ce1-4bd3-a7b6-8a5b9e252850",
+		"tenantId": "a58d8f7f-8e67-4a55-aea2-bbe7f5a43294"
+	}
+}
